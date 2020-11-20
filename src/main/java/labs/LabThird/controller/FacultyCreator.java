@@ -1,6 +1,5 @@
 package labs.LabThird.controller;
 
-import labs.LabThird.controller.DepartmentCreator;
 import labs.LabThird.model.Department;
 import labs.LabThird.model.Faculty;
 

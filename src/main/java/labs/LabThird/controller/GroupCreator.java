@@ -1,9 +1,7 @@
 package labs.LabThird.controller;
 
-import labs.LabThird.controller.StudentCreator;
 import labs.LabThird.model.Group;
 import labs.LabThird.model.Student;
-import labs.LabThird.model.Group;
 
 import java.util.ArrayList;
 import java.util.List;

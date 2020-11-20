@@ -1,7 +1,5 @@
 package labs.LabThird.model;
 
-import labs.LabThird.model.Faculty;
-
 import java.util.*;
 
 

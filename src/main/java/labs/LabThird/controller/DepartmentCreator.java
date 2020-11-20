@@ -1,8 +1,6 @@
 package labs.LabThird.controller;
 
-import labs.LabThird.controller.GroupCreator;
 import labs.LabThird.model.Department;
-import labs.LabThird.model.Faculty;
 import labs.LabThird.model.Group;
 
 import java.util.ArrayList;
